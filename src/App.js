@@ -231,7 +231,7 @@ const Education = () => {
 // Certifications Component
 const Certifications = () => {
   const certificationsData = [
-    "MongoDB Full-Stack Development",
+    "MongoDB","Full-Stack Development",
     "SQL (Basic & Intermediate) by HackerRank",
     "C/C++",
     "Python",
